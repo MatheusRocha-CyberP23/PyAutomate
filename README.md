@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ![logo](https://user-images.githubusercontent.com/121207419/209457343-1fd4b10d-5e2c-4ed3-a4d0-5f4aa8c6042d.png)
 =======
@@ -16,6 +17,10 @@
 =======
 ![Slice 1](https://user-images.githubusercontent.com/121207419/209457314-6cd3539e-9e56-4c6a-a752-b27b5f6f0cd5.png)
 >>>>>>> b730805 (Update README.md)
+=======
+
+![logo](https://user-images.githubusercontent.com/121207419/209457343-1fd4b10d-5e2c-4ed3-a4d0-5f4aa8c6042d.png)
+>>>>>>> 186d567 (Update README.md)
 
 
 
