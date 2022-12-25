@@ -1,26 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 ![logo](https://user-images.githubusercontent.com/121207419/209457343-1fd4b10d-5e2c-4ed3-a4d0-5f4aa8c6042d.png)
-=======
-![image description](https://imgur.com/a/6azw2qH.png)
->>>>>>> 1361579 (Update README.md)
-=======
-![image description](https://imgur.com/Hfy9YOz)
->>>>>>> 55ef958 (Update README.md)
-=======
-![Logotipo](https://user-images.githubusercontent.com/121207419/209457253-42e80b29-9d9e-4154-bd6c-9cd74b5cbe80.png)
->>>>>>> 0744f76 (Update README.md)
-=======
-![Slice 1](https://user-images.githubusercontent.com/121207419/209457314-6cd3539e-9e56-4c6a-a752-b27b5f6f0cd5.png)
->>>>>>> b730805 (Update README.md)
-=======
 
-![logo](https://user-images.githubusercontent.com/121207419/209457343-1fd4b10d-5e2c-4ed3-a4d0-5f4aa8c6042d.png)
->>>>>>> 186d567 (Update README.md)
 
 
 
