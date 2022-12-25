@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://imgur.com/a/6azw2qH"/>
-</div>
+![image description](https://imgur.com/a/6azw2qH)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/6azw2qH" data-context="false" ><a href="//imgur.com/a/6azw2qH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 # PyAutomate
