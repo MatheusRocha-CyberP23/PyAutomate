@@ -1,0 +1,5 @@
+ttkthemes @ git+https://github.com/RedFantom/ttkthemes@07e6509cc6bffbe7917e6ff456f0d1f16a5de636
+keyboard==0.13.5
+PyAutoGUI==0.9.53
+pywinauto==0.6.8
+pywin32==303
